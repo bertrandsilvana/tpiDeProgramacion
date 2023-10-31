@@ -44,18 +44,7 @@ if(ingresaturespuesta==palabraSeleccionada){
     
 //}
 //console.log(sincoma);
-//let intentos=1
-//let ingresaturespuesta=prompt("Ingresa tu respuesta")
-//while(ingresaturespuesta!==palabraSeleccionada && intentos<3){
- //   let resultado=prompt("Palabra incorrecta, vuelve a intentar");
- //   ingresaturespuesta=resultado;//para actualizar la respuesta
- //   intentos ++
-//}
-//if(ingresaturespuesta==palabraSeleccionada){
-//    console.log("¡felicitaciones acertaste!")
-//}else{
-//    console.log("lo siento se terminaron los intentos, la palabra era:"+palabraSeleccionada)
-//}
+
 
 
 
