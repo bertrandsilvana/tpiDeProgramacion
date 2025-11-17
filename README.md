@@ -5,20 +5,20 @@ El jugador tiene 3 intentos para adivinar la palabra correcta mediante entradas 
 
 Funcionamiento general
 
-Selección aleatoria de un animal desde una matriz.
+. Selección aleatoria de un animal desde una matriz.
 
-Mezcla aleatoria de las letras.
+. Mezcla aleatoria de las letras.
 
-Interacción mediante consola y ventanas de entrada.
+. Interacción mediante consola y ventanas de entrada.
 
-Control de hasta tres intentos.
+. Control de hasta tres intentos.
 
-Mensajes finales de acierto o error.
+. Mensajes finales de acierto o error.
 
 Ejecución
 
-Abrir el archivo HTML que incluya el script.
+1. Abrir el archivo HTML que incluya el script.
 
-Ejecutarlo en el navegador.
+2. Ejecutarlo en el navegador.
 
-Consultar la consola para ver el anagrama generado.
+3. Consultar la consola para ver el anagrama generado.
